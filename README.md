@@ -9,3 +9,5 @@ To run it follow this steps:
 4. Click to the run button!
 
 Have a happy using file!
+
+![Image alt](https://github.com/VladimirPapazov88/PyCalc/blob/master/IMG_0950.jpg?raw=true)
